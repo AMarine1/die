@@ -1,6 +1,6 @@
 function $(e) {
 	return document.querySelector(e);
-}
+};
 window.addEventListener('load', function(){
 	$('output[for=test]').value = $('input#test').value;
 	$('input#test').addEventListener('input',function(){
