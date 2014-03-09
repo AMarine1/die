@@ -2,7 +2,7 @@ function $(e) {
 	return document.querySelector(e);
 };
 function roll() {
-	return Math.floor(1 + Math.random() * 6);
+	return Math.ceil(Math.random() * 6);
 }
 window.addEventListener('load', function(){
 	$('output[for=test]').value = $('input#test').value;
