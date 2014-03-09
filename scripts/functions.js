@@ -13,6 +13,6 @@ window.addEventListener('load', function(){
 		alert('Hello, ' + $('#name').value)
 	});
 	$('#roll').addEventListener('click', function(){
-		$('die').dataset.rolled = roll();
+		$('#die').dataset.rolled = roll();
 	});
 });

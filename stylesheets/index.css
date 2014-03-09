@@ -47,3 +47,30 @@ background-image:linear-gradient(315deg,rgba(80,80,80,0.7),rgba(140,140,140,0.8)
 h1{
 text-align:center;
 }
+#die:not([data-rolled]) {
+	display: none;
+}
+#die[data-rolled] {
+	display:inline-block;
+	width: 4rem;
+	height: 5rem;
+	background-color:white;
+}
+#die[data-rolled = 1] {
+	background-image: url(images/557px-Dice-1.png);
+}
+#die[data-rolled = 2] {
+	background-image: url(images/557px-Dice-2.png);
+}
+#die[data-rolled = 3] {
+	background-image: url(images/557px-Dice-3.png);
+}
+#die[data-rolled = 4] {
+	background-image: url(images/557px-Dice-4.png);
+}
+#die[data-rolled = 5] {
+	background-image: url(images/557px-Dice-5.png);
+}
+#die[data-rolled = 6] {
+	background-image: url(images/557px-Dice-6.png);
+}
