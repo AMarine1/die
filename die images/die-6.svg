@@ -1,0 +1,27 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 100.00355 100.00355">
+<defs>
+<linearGradient id="linearGradient3761" x1="54.285713" spreadMethod="reflect" gradientUnits="userSpaceOnUse" y1="955.2193" x2="52.857143" y2="1003.7908">
+<stop stop-color="#e6e6e6" offset="0"/>
+<stop stop-color="#c8c8c8" offset="1"/>
+</linearGradient>
+</defs>
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<g stroke-linejoin="round" stroke-opacity="0.47058824" transform="translate(7.0663925e-4,-952.37216)" stroke="#787878" stroke-linecap="round" stroke-dasharray="none" stroke-miterlimit="4">
+<rect rx="10" ry="10" height="99.653831" width="99.653831" y="952.53528" x="0.17308372" stroke-width="0.34616745" fill="url(#linearGradient3761)"/>
+<path d="m-397.14287-341.42502a13.571428,12.857142,0,1,1,-27.14285,0,13.571428,12.857142,0,1,1,27.14285,0z" transform="matrix(0.53247646,0,0,0.5620585,239.78008,1165.4737)" stroke-width="1" fill="#000"/>
+<path d="m-397.14287-341.42502a13.571428,12.857142,0,1,1,-27.14285,0,13.571428,12.857142,0,1,1,27.14285,0z" transform="matrix(0.53247646,0,0,0.5620585,296.98181,1221.9269)" stroke-width="1" fill="#000"/>
+<path d="m-397.14287-341.42502a13.571428,12.857142,0,1,1,-27.14285,0,13.571428,12.857142,0,1,1,27.14285,0z" transform="matrix(0.53247646,0,0,0.5620585,241.67411,1220.0219)" stroke-width="1" fill="#000"/>
+<path d="m-397.14287-341.42502a13.571428,12.857142,0,1,1,-27.14285,0,13.571428,12.857142,0,1,1,27.14285,0z" transform="matrix(0.53247646,0,0,0.5620585,296.72927,1167.2524)" stroke-width="1" fill="#000"/>
+<path d="m-397.14287-341.42502a13.571428,12.857142,0,1,1,-27.14285,0,13.571428,12.857142,0,1,1,27.14285,0z" transform="matrix(0.53247646,0,0,0.5620585,240.91649,1192.4952)" stroke-width="1" fill="#000"/>
+<path d="m-397.14287-341.42502a13.571428,12.857142,0,1,1,-27.14285,0,13.571428,12.857142,0,1,1,27.14285,0z" transform="matrix(0.53247646,0,0,0.5620585,296.2242,1193.7689)" stroke-width="1" fill="#000"/>
+</g>
+</svg>
